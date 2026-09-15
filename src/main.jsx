@@ -7,10 +7,8 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
-      {/* <CartProvider> */}
+    <BrowserRouter basename="/ADDIS-EATS">
         <App />
-      {/* </CartProvider> */}
     </BrowserRouter>
   </StrictMode>,
 )
