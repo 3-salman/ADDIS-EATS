@@ -7,18 +7,16 @@ export const dishes = [
     "title": "Chechebsa",
     "price": 95,
     "category": "bakery",
-    "emoji": "🥞",
     "description": "Shredded flatbread pan-fried in spiced butter and berbere.",
-    "image": "/images/chechebsa.jpg"
+    "image": "images/chechebsa.jpg"
   },
   {
     "id": "key-wot",
     "title": "Key Wot",
     "price": 290,
     "category": "stews",
-    "emoji": "🌶️",
     "description": "A fiery beef stew slow-cooked in a deep red berbere base.",
-    "image": "/images/key-wot.jpg"
+    "image": "images/key-wot.jpg"
   },
 
   {
@@ -26,18 +24,16 @@ export const dishes = [
     "title": "Asa Wot (Fish Stew)",
     "price": 310,
     "category": "stews",
-    "emoji": "🐟",
     "description": "Nile perch simmered in a mild berbere and tomato sauce.",
-    "image": "/images/fish-goulash.jpg"
+    "image": "images/fish-goulash.jpg"
   },
   {
     "id": "zil-tibzs",
     "title": "Zilzil Tibs",
     "price": 355,
     "category": "meat",
-    "emoji": "🔥",
     "description": "Thin strips of grilled beef tossed in a spiced awaze sauce.",
-    "image": "/images/zil-tibzs.jpg"
+    "image": "images/zil-tibzs.jpg"
   }
 ]
 
